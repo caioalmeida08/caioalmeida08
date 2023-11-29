@@ -6,12 +6,12 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/caio-de-almeida-araujo/">
-  <img height="50" src="https://img.freepik.com/vetores-premium/logotipo-quadrado-do-linkedin-isolado-no-fundo-branco_469489-892.jpg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
 </a>
 <a href="https://www.instagram.com/caiomknh/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/480px-Instagram_icon.png"/>
 </a>
-<a href="https://www.instagram.com/caiomknh/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+<a href="https://wa.me/5588993552505">
+  <img height="50" src="https://w7.pngwing.com/pngs/872/916/png-transparent-whatsapp-logo-whatsapp-computer-icons-telephone-call-whatsapp-grass-internet-mobile-phones-thumbnail.png"/>
 </a>
 </p>
