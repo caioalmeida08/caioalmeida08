@@ -6,12 +6,12 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/caio-de-almeida-araujo/">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
 <a href="https://www.instagram.com/caiomknh/">
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/480px-Instagram_icon.png"/>
+  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/480px-Instagram_icon.png"/>
 </a>
 <a href="https://wa.me/5588993552505">
-  <img height="50" src="https://www.pngall.com/wp-content/uploads/13/Whatsapp-Logo-PNG-Image.png"/>
+  <img height="30" src="https://www.pngall.com/wp-content/uploads/13/Whatsapp-Logo-PNG-Image.png"/>
 </a>
 </p>
