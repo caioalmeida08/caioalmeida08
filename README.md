@@ -16,8 +16,6 @@
 </a>
 </p>
 
-<hr />
-
 <h2> Here's some stuff i like to mess with (on the back-end):</h2>
 <p align="left">
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
