@@ -30,14 +30,7 @@
 <h4"> Here's some stuff i like to mess with (on the back-end):
    <br>
    <br>
-   [![My Skills](https://skillicons.dev/icons?i=ts,html,css,wasm)](https://skillicons.dev)
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-   [![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,wasm)](https://skillicons.dev)
-   <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-   <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-   <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
-   <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-   <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mysql,postgresql" />
    <br>
    <br>
 </h4>
