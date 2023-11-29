@@ -12,6 +12,6 @@
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/480px-Instagram_icon.png"/>
 </a>
 <a href="https://wa.me/5588993552505">
-  <img height="50" src="https://w7.pngwing.com/pngs/872/916/png-transparent-whatsapp-logo-whatsapp-computer-icons-telephone-call-whatsapp-grass-internet-mobile-phones-thumbnail.png"/>
+  <img height="50" src="https://www.pngall.com/wp-content/uploads/13/Whatsapp-Logo-PNG-Image.png"/>
 </a>
 </p>
