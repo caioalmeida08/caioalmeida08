@@ -4,9 +4,7 @@
   Please, come meet me wherever you like:
 </h3>
 
-<br>
-
-<p align="center">
+<p align="right">
 <a href="https://www.linkedin.com/in/caio-de-almeida-araujo/">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
