@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/caio-de-almeida-araujo/">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+  <img height="50" src="https://cdn-icons-png.flaticon.com/256/174/174857.png"/>
 </a>
 <a href="https://www.instagram.com/caiomknh/">
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/480px-Instagram_icon.png"/>
