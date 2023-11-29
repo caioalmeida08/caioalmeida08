@@ -36,10 +36,8 @@
 </h4>
 <br>
 <h4> Here's some stuff i like to mess with (on the front-end):
-   <br>
-   <br>
    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css" />
    <br>
    <br>
 </h4>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioalmeida08)](https://github.com/caioalmeida08/github-readme-stats)
+
