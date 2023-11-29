@@ -19,7 +19,7 @@
 </p>
 
 <br>
-<br>
+<hr>
 <br>
 
 <h2> Here's some stuff i like to mess with (on the back-end):</h2>
