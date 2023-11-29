@@ -18,7 +18,8 @@
 <h3>
    My name is Caio,
 </h3>
-<p>I am currently undergoing my bachelor's degree in Information Systems. My goal is to become a full-stack web-developer. My personal focus is back-end. 
+<p> 
+   I am currently undergoing my bachelor's degree in Information Systems.<br> My goal is to become a full-stack web-developer.<br> My personal focus is back-end. 
    <br><br> My favourite hobby is playing volleyball and i like to spare my time listening to music or watching Youtube.
 </p>
 <br>
