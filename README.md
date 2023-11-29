@@ -22,7 +22,8 @@
 <h3>
   My name is Caio,
 </h3>
-<p>i am currently undergoing my bachelor's degree in Information Systems. My favourite hobby is playing volleyball and i like to spare my time listening to music or watching Youtube.</p>
+<p>i am currently undergoing my bachelor's degree in Information Systems. My goal is to become a full-stack web-developer. My personal focus is back-end. 
+  <br> My favourite hobby is playing volleyball and i like to spare my time listening to music or watching Youtube.</p>
 <br>
 
 <hr>
