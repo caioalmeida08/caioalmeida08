@@ -30,7 +30,7 @@
 <h4"> Here's some stuff i like to mess with (on the back-end):
    <br>
    <br>
-   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mysql,postgresql" />
+   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,sequelize,mysql,postgresql" />
    <br>
    <br>
 </h4>
