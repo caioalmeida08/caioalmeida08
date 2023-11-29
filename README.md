@@ -42,3 +42,12 @@
    <br>
    <br>
 </h4>
+<br>
+<h3>Tools and stuff</h3>
+<h4>These are the tools i'm used to working with:
+   <br>
+   <br>
+   <img src="https://skillicons.dev/icons?i=vscode,figma,github" />
+   <br>
+   <br>
+</h4>
