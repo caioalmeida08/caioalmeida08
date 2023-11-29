@@ -27,7 +27,7 @@
 </p>
 <br>
 <hr>
-<h4> Here's some stuff i like to mess with (on the back-end):
+<h4 style="background-color: white; padding: 20px;"> Here's some stuff i like to mess with (on the back-end):
    <br>
    <br>
    <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
