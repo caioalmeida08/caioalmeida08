@@ -47,7 +47,7 @@
 <h4>These are the tools i'm used to working with:
    <br>
    <br>
-   <img src="https://skillicons.dev/icons?i=vscode,figma,github" />
+   <img src="https://skillicons.dev/icons?i=vscode,figma,github,sass,stackoverflow" />
    <br>
    <br>
 </h4>
