@@ -27,7 +27,7 @@
 
 <hr>
 
-<h2> Here's some stuff i like to mess with (on the back-end):
+<h4> Here's some stuff i like to mess with (on the back-end):
   <br>
   <br>
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -39,12 +39,12 @@
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <br>
   <br>
-</h2>
+</h4>
 
 
 <br>
 
-<h2> Here's some stuff i like to mess with (on the front-end):
+<h4> Here's some stuff i like to mess with (on the front-end):
   <br>
   <br>
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
@@ -54,7 +54,7 @@
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <br>
   <br>
-</h2>
+</h4>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioalmeida08)](https://github.com/caioalmeida08/github-readme-stats)
 
