@@ -16,9 +16,9 @@
 </a>
 </p>
 
-<h3>
+<h4>
   My name is Caio, i am currently undergoing my bachelor's course in Information Systems. My favourite hobby is playing volleyball and i like to spare my time listening to music or watching Youtube.
-</h3>
+</h4>
 
 <h2 align="center"> Here's some stuff i like to mess with (on the back-end):</h2>
 <p align="center">
