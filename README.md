@@ -27,7 +27,8 @@
 </p>
 <br>
 <hr>
-<h4"> Here's some stuff i like to mess with (on the back-end):
+<h3>Back-end</h3>
+<h4> Here's some stuff i like to mess with (on the back-end):
    <br>
    <br>
    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,sequelize,mysql,postgresql" />
