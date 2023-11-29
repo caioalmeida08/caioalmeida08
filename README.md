@@ -44,14 +44,17 @@
 
 <br>
 
-<h2 align="center"> Here's some stuff i like to mess with (on the front-end):</h2>
-<p align="center">
+<h2 align="center"> Here's some stuff i like to mess with (on the front-end):
+  <br>
+  <br>
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-</p>
+  <br>
+  <br>
+</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioalmeida08)](https://github.com/caioalmeida08/github-readme-stats)
 
