@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/caio-de-almeida-araujo/">
+<a href="https://www.linkedin.com/in/caio-de-almeida-araujo/" target="_blank">
   <img height="50" src="https://cdn-icons-png.flaticon.com/256/174/174857.png"/>
 </a>
 <a href="https://www.instagram.com/caiomknh/">
