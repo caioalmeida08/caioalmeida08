@@ -36,6 +36,5 @@
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioalmeida08)](https://github.com/caioalmeida08/github-readme-stats)
 
-
-</p>
