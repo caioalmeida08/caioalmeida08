@@ -4,6 +4,8 @@
   Come meet me wherever you like:
 </h1>
 
+<br>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/caio-de-almeida-araujo/">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
@@ -15,6 +17,8 @@
   <img height="30" src="https://www.pngall.com/wp-content/uploads/13/Whatsapp-Logo-PNG-Image.png"/>
 </a>
 </p>
+
+<br>
 
 <h2> Here's some stuff i like to mess with (on the back-end):</h2>
 <p align="left">
