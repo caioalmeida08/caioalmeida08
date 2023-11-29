@@ -34,6 +34,7 @@
    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,sequelize,mysql,postgresql" />
 </h4>
 <br>
+<h3>Front-end</h3>
 <h4> Here's some stuff i like to mess with (on the front-end):
    <br>
    <br>
