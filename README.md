@@ -19,6 +19,8 @@
 </p>
 
 <br>
+<br>
+<br>
 
 <h2> Here's some stuff i like to mess with (on the back-end):</h2>
 <p align="left">
@@ -30,6 +32,8 @@
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 </p>
+
+<br>
 
 <h2> Here's some stuff i like to mess with (on the front-end):</h2>
 <p align="left">
