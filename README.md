@@ -1,61 +1,51 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0c75e6,50:05c9f9,100:00ee6e&height=170&section=header&text=Hi!&desc=I%20guess%3F&fontSize=45&fontAlignY=35&fontColor=fff&descAlign=95&descSize=15&animation=fadeIn)
-
 <h3 align="right">
-  Please, come meet me wherever you like:
+   Please, come meet me wherever you like:
 </h3>
-
 <p align="right">
-<a href="https://www.linkedin.com/in/caio-de-almeida-araujo/">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-</a>
-<a href="https://www.instagram.com/caiomknh/">
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/480px-Instagram_icon.png"/>
-</a>
-<a href="https://wa.me/5588993552505">
-  <img height="30" src="https://www.pngall.com/wp-content/uploads/13/Whatsapp-Logo-PNG-Image.png"/>
-</a>
+   <a href="https://www.linkedin.com/in/caio-de-almeida-araujo/">
+   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+   </a>
+   <a href="https://www.instagram.com/caiomknh/">
+   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/480px-Instagram_icon.png"/>
+   </a>
+   <a href="https://wa.me/5588993552505">
+   <img height="30" src="https://www.pngall.com/wp-content/uploads/13/Whatsapp-Logo-PNG-Image.png"/>
+   </a>
 </p>
-
 <br>
 <br>
-
 <h3>
-  My name is Caio,
+   My name is Caio,
 </h3>
 <p>i am currently undergoing my bachelor's degree in Information Systems. My goal is to become a full-stack web-developer. My personal focus is back-end. 
-  <br> My favourite hobby is playing volleyball and i like to spare my time listening to music or watching Youtube.</p>
+   <br> My favourite hobby is playing volleyball and i like to spare my time listening to music or watching Youtube.
+</p>
 <br>
-
 <hr>
-
 <h4> Here's some stuff i like to mess with (on the back-end):
-  <br>
-  <br>
-<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
-<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <br>
-  <br>
+   <br>
+   <br>
+   <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+   <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+   <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+   <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
+   <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+   <br>
+   <br>
 </h4>
-
-
 <br>
-
 <h4> Here's some stuff i like to mess with (on the front-end):
-  <br>
-  <br>
-<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-<img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <br>
-  <br>
+   <br>
+   <br>
+   <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+   <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+   <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+   <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+   <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+   <br>
+   <br>
 </h4>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioalmeida08)](https://github.com/caioalmeida08/github-readme-stats)
-
