@@ -38,7 +38,7 @@
 <h4> Here's some stuff i like to mess with (on the front-end):
    <br>
    <br>
-   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css" />
+   <img src="https://skillicons.dev/icons?i=react,nextjs,html,tailwind,css" />
    <br>
    <br>
 </h4>
