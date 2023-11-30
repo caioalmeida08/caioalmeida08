@@ -57,9 +57,5 @@
 
 <h3>Some metadata in case you want to know me better:</h3>
 <br>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioalmeida12&show_icons=true&theme=vue-dark)
-<br>
-<br>
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
