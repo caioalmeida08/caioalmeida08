@@ -31,14 +31,14 @@
 <h4> Here's some stuff i like to mess with (on the back-end):
    <br>
    <br>
-   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,sequelize,mysql,postgresql" />
+   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,sequelize,mysql,postgresql,jest" />
 </h4>
 <br>
 <h3>Front-end</h3>
 <h4> Here's some stuff i like to mess with (on the front-end):
    <br>
    <br>
-   <img src="https://skillicons.dev/icons?i=react,nextjs,html,tailwind,css" />
+   <img src="https://skillicons.dev/icons?i=react,nextjs,html,tailwind,sass,css" />
    <br>
    <br>
 </h4>
@@ -47,7 +47,7 @@
 <h4>These are the tools i'm used to working with:
    <br>
    <br>
-   <img src="https://skillicons.dev/icons?i=vscode,figma,github,sass,stackoverflow" />
+   <img src="https://skillicons.dev/icons?i=vscode,figma,github,stackoverflow" />
    <br>
    <br>
 </h4>
