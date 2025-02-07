@@ -20,8 +20,7 @@
 </h3>
 <p> 
    👨‍🎓 I am currently undergoing my bachelor's degree in Information Systems.<br>
-   💻 My goal is to become a <strong>full-stack web-developer</strong>.<br>
-   📊 My personal focus is back-end development.<br>
+   💻 Currently working at https://www.g4flex.com.br/ as a full-stack web developer</strong>.<br>
    <br> 
    🏐 My favourite hobby is playing volleyball and i like to spare my time listening to music or watching Youtube.
 </p>
